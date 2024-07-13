@@ -18,7 +18,7 @@ Book Exchange is a social networking platform that connects people through the s
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:Aditya733101/NewsHub.git
+   git clone git@github.com:Aditya733101/book-exchange.git
    ```
 
 
