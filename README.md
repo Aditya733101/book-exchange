@@ -10,7 +10,7 @@ Book Exchange is a social networking platform that connects people through the s
 
 ## Features
 
-- **TWe provide a simple platform where students can register, sign in to their accounts, and add books to their profiles** 
+- **Two provide a simple platform where students can register, sign in to their accounts, and add books to their profiles** 
 - **Users can search for books and find other students who own them, facilitating the exchange of books.** 
 - **This interaction allows students to connect with each other, share their love for reading, and access the books they need** 
 ## Installation
